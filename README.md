@@ -1,18 +1,28 @@
 <h1>Batch File Calculator</h1>
-<p><strong>Created by:</strong> Ninja (William)</p>
-
+<div>
+    <p><strong>Created by:</strong> Ninja (William)</p>
+</div>
 
 <h2>🛰 About:</h2>
-<p>This is a simple batch file calculator designed to perform basic arithmetic operations. It supports:</p>
-<ul>
-    <li>Division</li>
-    <li>Multiplication</li>
-    <li>Addition</li>
-    <li>Subtraction</li>
-</ul>
-<p>Easy to use and perfect for quick calculations!</p>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <p>This is a simple batch file calculator designed to perform basic arithmetic operations. It supports:</p>
+        <ul>
+            <li>Division</li>
+            <li>Multiplication</li>
+            <li>Addition</li>
+            <li>Subtraction</li>
+        </ul>
+        <p>Easy to use and perfect for quick calculations!</p>
+        
+       
+    
+</div>
 
 <h2>🌠 images:</h2>
+<div align="left" style="flex-shrink: 0; margin-right: 20;">
+        <img src="https://imgur.com/oQs11H7.png" width="200" />
+    </div>
 
 ![Image](https://github.com/user-attachments/assets/8a8afa38-50e1-4768-96d0-d99816fceb26)
 <br>
