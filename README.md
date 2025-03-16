@@ -8,10 +8,10 @@
     <div style="flex: 1;">
         <p>This is a simple batch file calculator designed to perform basic arithmetic operations. It supports:</p>
         <ul>
-            <li>Division</li>
-            <li>Multiplication</li>
-            <li>Addition</li>
-            <li>Subtraction</li>
+            <li>Division ➗ </li>
+            <li>Multiplication ✖️</li>
+            <li>Addition ➕</li>
+            <li>Subtraction ➖</li>
         </ul>
         <p>Easy to use and perfect for quick calculations!</p>
         
@@ -33,6 +33,14 @@
 ![image](https://github.com/user-attachments/assets/40be7551-8b06-4985-aa8d-d9d4a9e61ded)
 <br>
 ![image](https://github.com/user-attachments/assets/b6f6438d-2e55-4bd3-b106-e6af3bf31e95)
+<br>
+<br>
 
 
+<div style="background-color: #1f1f1f; color: #ffffff; padding: 20px;">
+  <p style="color: #a020f0; font-weight: bold;">💫 Please do not skid/edit any of the credits 💫</p>
+    <hr style="border-color: #a020f0; margin-top: 10px;">
+  <p>Deeply Appreciated -Ninja</p>
+
+</div>
 
